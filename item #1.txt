@@ -18,6 +18,8 @@ D. Teams
 Najiah Sabzwari
 - Najiah is a full time, first year student, majoring in Computer Science at California State University East Bay. As of past experience in her    major, Najiah has taken one computer science class in high school. It was an introductory course about the basics of          computer science in software and hardware. She worked a little with various programming languages like Python and Javascript and circuit boards at a beginner level. As of right now, she is taking one Computer Science class but is looking forward to  her journey through this major and all the skills she will attain.
 
+David Carpenter
+David is a student studying Computer Science Major at California State University East Bay. He is currently in his first year of college. He has taken a number of computer science classes throughout high school. He also has experience in building computers and tearing down and repairing electronics. He looks forward to continue building his knowledge and experience within the computing industry.
 
 E. Strategies
    Competitor: Landor
