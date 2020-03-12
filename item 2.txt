@@ -1,2 +1,3 @@
 Core Values: 
-One of our core values are Equality amongst our customers. We don't treat them as customers or people we are just working with, but as a collaborator. We also don't favor one customer over the other. 
+* One of our core values are Equality amongst our customers. We don't treat them as customers or people we are just working with, but as a collaborator. We also don't favor one customer over the other. 
+* We take clients' ideas into consideration and are more than willing to listen to any criticism or suggestions.
